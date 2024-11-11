@@ -11,5 +11,5 @@
 - 🔭 I help build SaaS products from scratch
 - 🌱 Founder and CEO of [Nextcrafter Labs](https://nextcrafter.com)
 - 👯 I help founder build and launch SaaS products
-- 🤔 I’m building [RFP Responder AI](https://rfpresponderai.com) and [Binge Chat](https://binge.chat)
+- 🤔 I’m building [RFP Responder AI](https://rfpresponderai.com) and [BuildUpAI](https://buildupai.com)
 - 💬 Book a call with me [Introduction to Nextcrafter](https://cal.com/nextcrafter/intro)
