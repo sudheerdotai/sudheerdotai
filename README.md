@@ -9,7 +9,7 @@
 <br>
 
 - 🔭 I help build SaaS products from scratch
-- 🌱 Founder and CEO of [Nextcrafter Labs](https://nextcrafter.com)
+- 🌱 Founder and CEO of [NextCrafter Labs](https://nextcrafter.com)
 - 👯 I help founder build and launch SaaS products
-- 🤔 I’m building [RFP Responder AI](https://rfpresponderai.com) and [BuildUpAI](https://buildupai.com)
+- 🤔 I’m building [Craft.js](https://github.com/nextcrafter/craft.js)
 - 💬 Book a call with me [Introduction to Nextcrafter](https://cal.com/nextcrafter/intro)
