@@ -8,8 +8,8 @@
 </a>
 <br>
 
-- 🔭 I help build SaaS products from scratch
-- 🌱 Founder and CEO of [NextCrafter Labs](https://nextcrafter.com)
+- 🔭 I help build and launch SaaS products from scratch
+- 🌱 Crafting SaaS Products at [NextCrafter Labs](https://nextcrafter.com)
 - 👯 I help founder build and launch SaaS products
-- 🤔 I’m building [Craft.js](https://github.com/nextcrafter/craft.js)
+- 🤔 I’m building [Craft.js](https://github.com/sudheerkumarme/craft.js)
 - 💬 Book a call with me [Introduction to Nextcrafter](https://cal.com/nextcrafter/intro)
