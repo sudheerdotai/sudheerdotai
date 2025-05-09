@@ -10,4 +10,4 @@
 
 - 🔭 Building apps with AI
 - 🌱 Founder at [Craft Labs](https://craftlabs.tech)
-- 👯 I share research and free resources on how to build apps smarter & faster with AI
+- 👯 I share tips and resources to build faster, smarter, and better with AI
