@@ -8,8 +8,6 @@
 </a>
 <br>
 
-- 🔭 I help build and launch SaaS products from scratch
-- 🌱 Crafting SaaS Products at [NextCrafter Labs](https://nextcrafter.com)
-- 👯 I help founder build and launch SaaS products
-- 🤔 I’m building [Craft.js](https://github.com/nextcrafter/craft.js)
-- 💬 Book a call with me [Introduction to Nextcrafter](https://cal.com/nextcrafter/intro)
+- 🔭 Building apps with AI
+- 🌱 Founder at [Craft Labs](https://craftlabs.tech)
+- 👯 I share research and free resources on how to build apps smarter & faster with AI
