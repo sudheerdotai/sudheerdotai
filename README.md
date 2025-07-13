@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Sudheer
 
 <a href="https://www.twitter.com/sudheerkumarme" target="__blank">
-  <img src="https://img.shields.io/twitter/follow/sudheerkumarme?style=social" alt="Twitter">
+  <img src="https://img.shields.io/twitter/follow/sudheerai?style=social" alt="Twitter">
 </a>
-<a href="https://www.linkedin.com/in/sudheerkumarme" target="_blank">
+<a href="https://www.linkedin.com/in/sudheer.ai" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <br>
