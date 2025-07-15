@@ -8,6 +8,5 @@
 </a>
 <br>
 
-- 🔭 Building [Craft](https://github.com/craftjs-dev/craft)
-- 🌱 Founder at [Craft Labs](https://craftlabs.tech)
+- 🔭 Founder at [Craft Labs](https://craftlabs.tech)
 - 👯 I share tips and resources to build faster, smarter, and better with AI
